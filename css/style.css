@@ -150,12 +150,30 @@ body{
     table{
         margin: auto;
     }
-    .container div{
-        padding: 10px 60px;
-    }
 
-@media (min-width:1400px) {
-    .container div{
-        padding: 10px 110px;
+    @media (min-width:1400px) {
+        .name{
+            padding: 10px 110px;
+        }
+        .phone{
+            padding: 10px 110px;
+        }
+        .dob{
+            padding: 10px 110px;
+        }
+        .address{
+            padding: 10px 110px;
+        }
+        .gender{
+            padding: 10px 110px;
+        }
+        .city{
+            padding: 10px 110px;
+        }
+        .hobbies{
+            padding: 10px 110px;
+        }
+        .submit{
+            padding: 10px 110px;
+        }
     }
-}
