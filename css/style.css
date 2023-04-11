@@ -91,6 +91,7 @@ body{
     
     input[type="submit"]:hover {
     background-color: #2e4377;
+    transition: 0.4s;
     }
     
     input[type="reset"] {
@@ -103,7 +104,8 @@ body{
     }
     
     input[type="reset"]:hover {
-    background-color: #ff0040;
+    background-color: darkred;
+    transition: 0.4s;
     }
 
     
