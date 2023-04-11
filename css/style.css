@@ -66,6 +66,7 @@ body{
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    visibility: inherit;
     }
     
     .response-style{
@@ -149,10 +150,34 @@ body{
         background-color: #f2f2f2;
 
     }
+
     table{
         margin: auto;
     }
-
+    .name{
+        padding: 0px 40px;
+    }
+    .phone{
+        padding: 0px 40px;
+    }
+    .dob{
+        padding: 0px 40px;
+    }
+    .address{
+        padding: 0px 40px;
+    }
+    .gender{
+        padding: 0px 40px;
+    }
+    .city{
+        padding: 0px 50px;
+    }
+    .hobbies{
+        padding: 0px 50px;
+    }
+    .submit{
+        padding: 0px 50px;
+    }
     @media (min-width:1400px) {
         .name{
             padding: 10px 110px;
