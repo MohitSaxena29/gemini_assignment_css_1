@@ -15,6 +15,18 @@ body{
     width: 100%;
     z-index: 1;
     }
+
+    h1{
+        text-align: center;
+    }
+    div{
+        margin: 20px;
+    }
+    label {
+        display: inline-block;
+        width: 150px;
+        text-align: right;
+    }
     
     form {
     position: relative;
@@ -94,17 +106,7 @@ body{
     background-color: #ff0040;
     }
 
-    h1{
-        text-align: center;
-    }
-    div{
-        margin: 20px;
-    }
-    label {
-        display: inline-block;
-        width: 150px;
-        text-align: right;
-    }
+    
 
     .gender{
         margin-left: 110px;
