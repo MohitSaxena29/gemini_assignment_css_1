@@ -59,7 +59,7 @@ body{
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    width: 50%;
+    width: 40%;
     }
     
     textarea{
@@ -150,3 +150,12 @@ body{
     table{
         margin: auto;
     }
+    .container div{
+        padding: 10px 60px;
+    }
+
+@media (min-width:1400px) {
+    .container div{
+        padding: 10px 110px;
+    }
+}
